@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+DckCas8LdfQ7bPuKxfzRfXka6dSL7PAudlIwYpqc5SqzYS5jOrWL2Dv7XiXbrsQ6lru3ZOJATIDm5nm1/yH5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\henri\\OneDrive\\Área de Trabalho\\test1\\test1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henri\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\selenium.webdriver.chromedriver\\110.0.5481.7700\\selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512"
+  ],
+  "logs": []
+}
